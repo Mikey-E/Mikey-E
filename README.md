@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://michaelelgin.com/ will connect you to all things related to me.
+
 <!--
 **Mikey-E/Mikey-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
